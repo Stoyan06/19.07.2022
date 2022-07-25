@@ -1,0 +1,15 @@
+D:\Давид обучение\19.07.2022\Solution\1.Train\bin\Debug\net6.0\1.Train.exe
+D:\Давид обучение\19.07.2022\Solution\1.Train\bin\Debug\net6.0\1.Train.deps.json
+D:\Давид обучение\19.07.2022\Solution\1.Train\bin\Debug\net6.0\1.Train.runtimeconfig.json
+D:\Давид обучение\19.07.2022\Solution\1.Train\bin\Debug\net6.0\1.Train.dll
+D:\Давид обучение\19.07.2022\Solution\1.Train\bin\Debug\net6.0\1.Train.pdb
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.csproj.AssemblyReference.cache
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.AssemblyInfoInputs.cache
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.AssemblyInfo.cs
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.csproj.CoreCompileInputs.cache
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.dll
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\refint\1.Train.dll
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.pdb
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\1.Train.genruntimeconfig.cache
+D:\Давид обучение\19.07.2022\Solution\1.Train\obj\Debug\net6.0\ref\1.Train.dll

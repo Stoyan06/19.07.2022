@@ -1,0 +1,15 @@
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\bin\Debug\net6.0\9.Pokemon dont go.exe
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\bin\Debug\net6.0\9.Pokemon dont go.deps.json
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\bin\Debug\net6.0\9.Pokemon dont go.runtimeconfig.json
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\bin\Debug\net6.0\9.Pokemon dont go.dll
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\bin\Debug\net6.0\9.Pokemon dont go.pdb
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.csproj.AssemblyReference.cache
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.AssemblyInfoInputs.cache
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.AssemblyInfo.cs
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.csproj.CoreCompileInputs.cache
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.dll
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\refint\9.Pokemon dont go.dll
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.pdb
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\9.Pokemon dont go.genruntimeconfig.cache
+D:\Давид обучение\19.07.2022\Solution\9.Pokemon dont go\obj\Debug\net6.0\ref\9.Pokemon dont go.dll

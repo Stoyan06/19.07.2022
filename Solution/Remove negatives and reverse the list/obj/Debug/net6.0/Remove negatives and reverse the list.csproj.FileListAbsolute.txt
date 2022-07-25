@@ -1,0 +1,15 @@
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\bin\Debug\net6.0\Remove negatives and reverse the list.exe
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\bin\Debug\net6.0\Remove negatives and reverse the list.deps.json
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\bin\Debug\net6.0\Remove negatives and reverse the list.runtimeconfig.json
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\bin\Debug\net6.0\Remove negatives and reverse the list.dll
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\bin\Debug\net6.0\Remove negatives and reverse the list.pdb
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.csproj.AssemblyReference.cache
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.AssemblyInfoInputs.cache
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.AssemblyInfo.cs
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.csproj.CoreCompileInputs.cache
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.dll
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\refint\Remove negatives and reverse the list.dll
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.pdb
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\Remove negatives and reverse the list.genruntimeconfig.cache
+D:\Давид обучение\19.07.2022\Solution\Remove negatives and reverse the list\obj\Debug\net6.0\ref\Remove negatives and reverse the list.dll
