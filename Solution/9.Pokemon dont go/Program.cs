@@ -1,45 +1,68 @@
-﻿List<int> pokemons = Console.ReadLine().Split().Select(int.Parse).ToList();
-int command;
+﻿List<int> input = Console.ReadLine().Split().Select(int.Parse).ToList();
 int sum = 0;
 int memory = 0;
-bool help = true;
 
-while(pokemons.Count > 0)
+while (input.Count > 0)
 {
-    command = int.Parse(Console.ReadLine());
-    if (command < 0)
+    int index = int.Parse(Console.ReadLine());
+    if (index < 0)
     {
-        sum += pokemons[0];
-        pokemons[0] = pokemons[pokemons.Count - 1];
-        help = false;
-    }
-    if (help == true)
-    {
-        if (command > pokemons.Count - 1)
+        int mma = input[0];
+        sum += mma;
+        input[0] = input[input.Count - 1];
+
+        for (int i = 0; i < input.Count; i++)
         {
-            sum += pokemons[pokemons.Count - 1];
-            pokemons[pokemons.Count - 1] = pokemons[0];
-            help = false;
-        }
-       if (help == true)
-        {
-            memory = pokemons[command];
-            pokemons.Remove(pokemons[command]);
-            sum += memory;
-            for (int i = 0; i < pokemons.Count; i++)
+            if (input[i] <= mma)
             {
-                if (pokemons[i] <= memory)
-                {
-                    pokemons[i] += memory;
-                }
-                if (pokemons[i] > memory)
-                {
-                    pokemons[i] -= memory;
-                }
+                input[i] += mma;
+            }
+
+            else
+            {
+                input[i] -= mma;
             }
         }
     }
-    help = true;
+
+    else if (index > input.Count - 1)
+    {
+        sum += input[input.Count - 1];
+        int mmb = input[input.Count - 1];
+        input[input.Count - 1] = input[0];
+
+        for (int i = 0; i < input.Count; i++)
+        {
+            if (input[i] <= mmb)
+            {
+                input[i] += mmb;
+            }
+
+            else
+            {
+                input[i] -= mmb;
+            }
+        }
+    }
+    else
+    {
+        memory = input[index];
+        sum += memory;
+        input.RemoveAt(index);
+
+        for (int i = 0; i < input.Count; i++)
+        {
+            if (input[i] <= memory)
+            {
+                input[i] += memory;
+            }
+
+            else
+            {
+                input[i] -= memory;
+            }
+        }
+    }
 }
 
 Console.WriteLine(sum);

@@ -1,11 +1,15 @@
-﻿string input = Console.ReadLine();
-List<string> arrays = input.Split("|").ToList();
-arrays.Reverse();
-for (int i = 0; i < arrays.Count; i++)
+﻿List<string> input = Console.ReadLine().Split("|").ToList();
+List<string> arrays = new List<string>();
+input.Reverse();
+
+for(int i = 0; i < input.Count; i++)
 {
-    if (arrays.Contains(" "))
+    var temporary = input[i].Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+    foreach(var y in temporary)
     {
-        arrays.Remove(" ");
+        arrays.Add(y);
     }
 }
+
 Console.WriteLine(String.Join(" ", arrays));

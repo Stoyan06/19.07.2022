@@ -1,0 +1,15 @@
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\bin\Debug\net6.0\10.Softuni course planning.exe
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\bin\Debug\net6.0\10.Softuni course planning.deps.json
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\bin\Debug\net6.0\10.Softuni course planning.runtimeconfig.json
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\bin\Debug\net6.0\10.Softuni course planning.dll
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\bin\Debug\net6.0\10.Softuni course planning.pdb
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.csproj.AssemblyReference.cache
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.AssemblyInfoInputs.cache
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.AssemblyInfo.cs
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.csproj.CoreCompileInputs.cache
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.dll
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\refint\10.Softuni course planning.dll
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.pdb
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\10.Softuni course planning.genruntimeconfig.cache
+D:\Давид обучение\19.07.2022\Solution\10.Softuni course planning\obj\Debug\net6.0\ref\10.Softuni course planning.dll

@@ -50,4 +50,7 @@ if (notInTheList.Count != 0)
     }
 }
 
-Console.WriteLine(String.Join(" ", names));
+for(int i = 0; i < names.Count; i++)
+{
+    Console.WriteLine(names[i]);
+}
